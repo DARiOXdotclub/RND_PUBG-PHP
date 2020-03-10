@@ -1,0 +1,5 @@
+{
+    "require": {
+        "samiaraboglu/pubg-php-api": "^1.0"
+    }
+}
